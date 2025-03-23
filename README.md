@@ -18,12 +18,10 @@
 * 单按键控制逻辑：支持界面切换、电子书翻页、进入设置菜单、菜单切换、修改设置等；
 
 
-# 视频展示
+# 视频
 
-<video width="320" height="240" controls>
-  <source src="./PIC/复位和天气同步.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+* 启动并同步天气信息
+* [启动并同步天气信息](./PIC/复位和天气同步.mp4)
 
 
 # 硬件
