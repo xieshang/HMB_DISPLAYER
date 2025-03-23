@@ -1,0 +1,2 @@
+# HMB_DISPLAYER
+盒马墨水屏DIY，支持通过OpenMqttGateway接入homeassistant，通过node-red实现时间、天气自动同步，显示自定义内容，并可引出按键实现智能设备联动，电子书等
