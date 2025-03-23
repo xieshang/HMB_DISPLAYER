@@ -18,6 +18,14 @@
 * 单按键控制逻辑：支持界面切换、电子书翻页、进入设置菜单、菜单切换、修改设置等；
 
 
+# 视频展示
+
+<video width="320" height="240" controls>
+  <source src="./PIC/复位和天气同步.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 # 硬件
 - 墨水屏：盒马2.3寸、4.2寸
 - 微控制器：DA14585（盒马自带）
@@ -25,9 +33,13 @@
 - 存储：内置3000个常用字字库，需改造pcb焊接TF卡座以实现电子书功能
 - 连接：使用蓝牙通过OpenMqttGateway接入homeassistant
 
+## 开发环境
 ![开发环境](./PIC/开发环境.jpg)
+## 原版PCB+墨水屏
 ![原版PCB+墨水屏](./PIC/原版PCB+墨水屏.jpg)
+## 天气+未来七天
 ![天气+未来七天](./PIC/天气+未来七天.jpg)
+## 2.3寸旧界面
 ![2.3寸旧界面](./PIC/2.3寸旧界面.jpg)
 
 
