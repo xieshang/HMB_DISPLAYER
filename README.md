@@ -20,9 +20,10 @@
 
 # 视频
 
-<video src="./PIC/复位和天气同步.webm" autoplay="true" controls="controls" width="800" height="600">
+<video width="800" height="400" controls>
+  <source src="./PIC/复位和天气同步.mp4" type="video/mp4">
+  您的浏览器不支持 video 标签。
 </video>
-
 
 # 硬件
 - 墨水屏：盒马2.3寸、4.2寸
