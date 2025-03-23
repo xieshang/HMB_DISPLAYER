@@ -20,7 +20,8 @@
 
 # 视频
 
-* [启动并同步天气信息](./PIC/复位和天气同步.mp4)
+<video src="./PIC/复位和天气同步.webm" autoplay="true" controls="controls" width="800" height="600">
+</video>
 
 
 # 硬件
